@@ -1,6 +1,5 @@
 from typing import Callable, Union
 import requests
-import json
 
 
 class InvalidInputException(Exception):
